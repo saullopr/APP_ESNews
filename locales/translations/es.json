@@ -1,0 +1,53 @@
+{
+    "literatura": "Manténgase conectado en ES",
+    "placeholderSenha": "Contraseña",
+    "placeholderEmail": "Correo electrónico ",
+    "botaoLogin": "Iniciar sesión",
+    "botaoEsqueceuSenha": "¿Olvidaste tu contraseña?",
+    "botaoCadastro": "¿No tienes una cuenta? Registrarse",
+
+    "english": "Inglés",
+    "portuguese": "Portugués",
+    "spanish": "Español",
+    "idioma_subtitulo": "Elide un idioma",
+
+    "geral_config": "General" ,
+    "idiomas_config": "Idiomas",
+    "outros_config": "Otros",
+    "sobre_config": "Acerca de",
+    "sair_config": "Fuera",
+
+    "sobre_nos": "Sobre nosotros",
+    "descricao_sobre1": "ES News es una aplicación para mostrar noticias de las principales ciudades de Espírito Santo.",
+   "saudacao": "Bien Viendo a",
+
+    "add": "Ad Lista",
+
+    "textoDigiteEmail": "Escriba su correo electrónico",
+    "placeholderDigiteAqui": "Digite aquí",
+    "botaoEnviar": "Enviar",
+    
+    "tituloCadastro": "Regístrese para acceder a la aplicación ",
+    "inputNome": "Nombre",
+    "inputEmail": "Correo electrónico",
+    "inputSenha": "Contraseña",
+    "inputConfirmaSenha": "Confirmar seña",
+    "textoConcordo": "Estoy de acuerdo con el",
+    "textoTermosUso": "Terminos de uso",
+    "botaoCadastrar": "Registrar",
+
+    "bookListDrawer": "Lista de Libros",
+    "configDrawer": "Ajustes",
+
+    "tituloDashboard": "Verificación del tablero ",
+    "usuCadastrado": "No. de usuarios registrados ",
+    "numNoticias": "Número de noticias registradas ",
+    "numTemas": "N° de Temas Registrados",
+    "numCidades": "N° de Ciudades Registradas",
+
+    "paragrafo1": "Esta es una aplicación en desarrollo y se pueden realizar varios cambios con el tiempo. ",
+    "paragrafo2": "Esta aplicación se creó inicialmente como un proyecto de desarrollo móvil para la universidad.",
+    "paragrafo3": "En el futuro aumentaremos la cantidad de novedades disponibles en la aplicación.",
+    "paragrafo4": "Esperamos que le guste la aplicación y nos dé su opinión sobre cómo podemos servirle mejor.",
+    "termoUsoTitulo": "Terminos de uso"
+}

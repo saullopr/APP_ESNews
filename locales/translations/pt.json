@@ -1,0 +1,55 @@
+{
+    "Noticia": "Fique Ligado no ES",
+    "placeholderSenha": "Senha",
+    "placeholderEmail": "E-mail",
+    "botaoLogin": "Realizar Login",
+    "botaoEsqueceuSenha": "Esqueceu sua senha",
+    "botaoCadastro": "Não possui uma conta? Cadastre-se",
+
+    "addLista": "AddLista",
+
+    "english": "Inglês",
+    "portuguese": "Português",
+    "spanish": "Espanhol",
+    "idioma_subtitulo": "Escolha um idioma",
+
+    "geral_config": "Geral",
+    "idiomas_config": "Idiomas",
+    "outros_config": "Outros",
+    "sobre_config": "Sobre",
+    "sair_config": "Sair",
+
+    "sobre_nos": "Sobre nós",
+    "descricao_sobre1": "ES News é um aplicativo para exibir notícias das principais cidades do Espírito Santo.",
+    "saudacao": "Bem vindo ao",
+
+    "add": "Add Lista",
+
+    "textoDigiteEmail": "Digite seu e-mail",
+    "placeholderDigiteAqui": "Digite aqui",
+    "botaoEnviar": "Enviar",
+    
+    "tituloCadastro": "Cadastre-se para acessar o app",
+    "inputNome": "Nome",
+    "inputEmail": "E-mail",
+    "inputSenha": "Senha",
+    "inputConfirmaSenha": "Confirmar Senha",
+    "textoConcordo": "Concordo com os",
+    "textoTermosUso": "Termos de Uso",
+    "botaoCadastrar": "Cadastrar",
+
+    "bookListDrawer": "Lista de Leitura",
+    "configDrawer": "Configurações",
+
+    "tituloDashboard": "Verificação de Dashboard",
+    "usuCadastrado": "N° de usuários cadastrados",
+    "numNoticias": "N° de Noticias Cadastradas",
+    "numTemas": "N° de Temas Cadastrados",
+    "numCidades": "N° de Cidades Cadastradas",
+
+    "paragrafo1": "Esse é um app em desenvolvimento, e diversas alterações podem ser feitas com o passar do tempo",
+    "paragrafo2": "Esse app foi criado inicialmente como um projeto de Desenvolvimento Mobile para universidade",
+    "paragrafo3": "Futuramente aumentaremos a quantidade de noticias disponíveis na aplicação.",
+    "paragrafo4": "Esperamos que goste do aplicativo, e nos forneça sua opinião de como melhor podemos atendê-lo.",
+    "termoUsoTitulo": "Termos de Uso"
+}

@@ -1,0 +1,53 @@
+{
+    "literatura": "Stay Tunned for ES",
+    "placeholderSenha": "Password",
+    "placeholderEmail": "E-mail",
+    "botaoLogin": "Sign In",
+    "botaoEsqueceuSenha": "Forgot your password",
+    "botaoCadastro": "Don't have an account? Sign up",
+
+    "english": "English",
+    "portuguese": "Portuguese",
+    "spanish": "Spanish",
+    "idioma_subtitulo": "Choose a language",
+
+    "geral_config": "General",
+    "idiomas_config": "Language",
+    "outros_config": "Other",
+    "sobre_config": "About",
+    "sair_config": "Logout",
+
+    "sobre_nos": "About us",
+    "descricao_sobre1": "ES News is an application to display news from the main cities of Espírito Santo.",
+    "saudacao": "Welcome to",
+   
+    "add": "Add List",
+
+    "textoDigiteEmail": "Type your e-mail",
+    "placeholderDigiteAqui": "Type here",
+    "botaoEnviar": "Send",
+    
+    "tituloCadastro": "Sign up to use the app",
+    "inputNome": "Name",
+    "inputEmail": "E-mail",
+    "inputSenha": "Password",
+    "inputConfirmaSenha": "Confirm Password",
+    "textoConcordo": "I agree with the",
+    "textoTermosUso": "Use Terms",
+    "botaoCadastrar": "Sign up",
+
+    "bookListDrawer": "Book List",
+    "configDrawer": "Settings",
+
+    "tituloDashboard": "Dashboard Verification",
+    "usuCadastrado": "Number of signed users",
+    "numNoticias": "Number of news registered",
+    "numTemas": "Number of themes registered",
+    "numCidades": "Number of cities registered",
+
+    "paragrafo1": "This is an app in development, and several changes can be made over time. ",
+    "paragrafo2": "This app was initially created as a Mobile Development project for university ",
+    "paragrafo3": "In the future we will increase the amount of news available in the application.",
+    "paragrafo4": "We hope you like the app, and give us your opinion on how we can best serve you.",
+    "termoUsoTitulo": "Use Terms"
+}
